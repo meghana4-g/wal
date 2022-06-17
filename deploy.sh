@@ -1,3 +1,5 @@
 deploy`:
-fetch
+mayu fetch
 editing from gui
+
+mayuresh edit
