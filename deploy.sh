@@ -1,4 +1,5 @@
 deploy`:
+mergertry
 fetch
 meghana edit
 mayu fetch
